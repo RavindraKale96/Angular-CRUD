@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Ravindra",
+      "lastName": "kale",
+      "email": "kaleravindra302@gmail.com",
+      "mobile": "09503585542",
+      "salary": "50500"
+    },
+    {
+      "id": 2,
+      "firstName": "Nitin",
+      "lastName": "dube",
+      "email": "kaleravindra302@gmail.com",
+      "mobile": "8381019296",
+      "salary": "58000"
+    },
+    {
+      "id": 4,
+      "firstName": "pooja",
+      "lastName": "sawai",
+      "email": "pojaswai@gmail.com",
+      "mobile": "9049215784",
+      "salary": "45500"
+    },
+    {
+      "id": 5,
+      "firstName": "ajay",
+      "lastName": "matsagar",
+      "email": "aja@455gmail.com",
+      "mobile": "987456210",
+      "salary": "60000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
