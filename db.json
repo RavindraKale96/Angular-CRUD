@@ -3,34 +3,26 @@
     {
       "id": 1,
       "firstName": "Ravindra",
-      "lastName": "kale",
+      "lastName": "kaleravindra302@gmail.com",
       "email": "kaleravindra302@gmail.com",
-      "mobile": "09503585542",
-      "salary": "50500"
+      "mobile": "9503585542",
+      "salary": "50000"
     },
     {
       "id": 2,
       "firstName": "Nitin",
-      "lastName": "dube",
+      "lastName": "Dube",
       "email": "kaleravindra302@gmail.com",
       "mobile": "8381019296",
-      "salary": "58000"
+      "salary": "100000"
     },
     {
-      "id": 4,
-      "firstName": "pooja",
-      "lastName": "sawai",
-      "email": "pojaswai@gmail.com",
-      "mobile": "9049215784",
-      "salary": "45500"
-    },
-    {
-      "id": 5,
-      "firstName": "ajay",
-      "lastName": "matsagar",
-      "email": "aja@455gmail.com",
-      "mobile": "987456210",
-      "salary": "60000"
+      "id": 3,
+      "firstName": "Ajay",
+      "lastName": "Matsagar",
+      "email": "Ajaymats5@gmial.com",
+      "mobile": "9874561230",
+      "salary": "50000"
     }
   ],
   "comments": [],
